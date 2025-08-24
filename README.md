@@ -1,6 +1,7 @@
 # PocketVault — Portable, multi-factor file locker
 A fast, USB-friendly GUI tool for encrypting and decrypting your own files.
 Combines a static passcode + ephemeral session/auth code + a Fernet secret.key to ensure only authorized users can decrypt.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/629a4318-51b4-43ee-aad8-a52146a5cab3" />
 
 
 ## What PocketVault is
