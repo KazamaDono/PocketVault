@@ -38,6 +38,10 @@ PocketVault is a user-focused, portable file locker. It provides:
 https://github.com/user-attachments/assets/719d7e9f-368a-4a46-b3fb-658b2aebecd0
 
 
+https://github.com/user-attachments/assets/14cbd375-1fcd-4198-b0b0-364f75c28642
+
+
+
 ---
 
 ## Requirements
